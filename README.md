@@ -49,6 +49,12 @@ JStreet Assessment
   | When creating new VM | Be cognizant of your host operating system's memory needs |
   | When creating a Virtual hard disk | You can always grow (but not shrink) the drive's capacity, partitions and filesystems later |
                                      
-  
+### Mounting the ISO and Bootstrapping
+
+- After creating the virtual hard drive you will be back at the main VirtualBox Manager window. From here, make sure the new Kali VM is highlighted blue and click the green arrow Start button.
+- Next you'll be prompted for a start-up disk. Click the little folder icon with the green arrow.
+- Add a new virtual optical disk image (ISO) file.
+- Open the ISO you downloaded previously in your Downloads folder. Then click Choose.
+- click Start.
 
   
