@@ -21,5 +21,14 @@ JStreet Assessment
 - Download the [VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
 - Click the link that says "All supported platforms" under the Extension Pack section.
 - Save the file.
+- Install the VirtualBox Extension Pack.
+- Open the Extension Pack file you just downloaded.
+- Agree to the terms by bring the scroll bar down and clicking "I Agree".
+- Answer Yes to the Windows UAC prompt (check for a flashing icon in your taskbar).
+- Click OK after it successfully installs.
+
+#### Kali Linux Installation
+
+- 
 
   
