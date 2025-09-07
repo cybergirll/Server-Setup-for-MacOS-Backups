@@ -43,4 +43,12 @@ JStreet Assessment
 - Name it as *you wish*, set the Type to Linux and Version to Debian, as Kali is a derivative.
 - Choose a memory size (powers of 2). We recommend allocating a quarter of your total system memory e.g. if you computer has 8G then set it to 2048 MB. If memory is scarce then stick with 1024 MB. You may be able to get by with less but performance will be heavily impacted due to swapping/paging to disk.
 - Create a virtual hard disk, of type VDI, dynamically allocated with AT LEAST 25GB of space. If you have plenty of free space we recommend 50GB.
+
+  | *Note*                 | *Description* |
+  | --- | ---|
+  | When creating new VM | Be cognizant of your host operating system's memory needs |
+  | When creating a Virtual hard disk | You can always grow (but not shrink) the drive's capacity, partitions and filesystems later |
+                                     
+  
+
   
